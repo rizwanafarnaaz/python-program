@@ -1,6 +1,6 @@
 number=int(raw_input())
-for i in range(2, number):
-	if number%i == 0:
+for x in range(2, number):
+	if number%x == 0:
 		print('no')
 	break
 else:

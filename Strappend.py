@@ -1,3 +1,3 @@
-a=raw_input()
-string=str(a)
+h=raw_input()
+string=str(h)
 print "vishalrk."
